@@ -1,4 +1,3 @@
 npm i -g @github-did/cli
 ghdid init "password" https://github.com/LennartKlg/ghdid
-# if you need to revoke all / reset your DID
-ghdid init "password" https://github.com/LennartKlg/ghdid --force
+
